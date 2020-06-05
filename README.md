@@ -1,6 +1,5 @@
 # booknote
-
-A new Flutter application.
+It's a Mobile appliction which is very useful for peopole who read, it helps you to keep the information that you gained safe and organised in one place in case you want to read them again
 
 ## Getting Started
 
