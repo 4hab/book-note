@@ -2,6 +2,8 @@
 <img src="images/logo.jpg" height=200/>
 It's a Mobile appliction which is very useful for peopole who read, it helps you to keep the information that you gained safe and organised in one place in case you want to read them again
 
+[Preview video](https://photos.app.goo.gl/mzNdU5e8c3nx1dWv8)
+
 ## Tools and technologies
 - Flutter
 - Android studio IDE
